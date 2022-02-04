@@ -40,5 +40,6 @@
     <languageCode>ru</languageCode>
   </languages>
   <catalogs>Catalog.Номенклатура</catalogs>
+  <catalogs>Catalog.Контрагенты</catalogs>
   <documents>Document.Продажа</documents>
 </mdclass:Configuration>
